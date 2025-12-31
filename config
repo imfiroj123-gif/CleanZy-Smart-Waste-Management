@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/imfiroj123-gif/CleanZy-Smart-Waste-Management.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	gk-last-accessed = 2025-12-31T17:43:42.856Z
